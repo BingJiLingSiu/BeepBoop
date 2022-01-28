@@ -9,8 +9,6 @@ namespace BeepBoop
         {
             Randomizer randomizer = new Randomizer();
 
-            WindowManager.hideWindow();
-
             while (true)
             {
 
